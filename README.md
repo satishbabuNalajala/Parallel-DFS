@@ -22,4 +22,7 @@ A 5000 node random graph is produced, which passes variables for the number of c
 
 Output:
 The result shows the path from the source node to the destination node and also shows time taken by both Parallel and Sequential DFS to process the given Input.
- ![image](https://user-images.githubusercontent.com/101539639/205505363-ed13e32b-748a-4c6d-83db-c37bd1f69ef4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/101539639/205505363-ed13e32b-748a-4c6d-83db-c37bd1f69ef4.png)
