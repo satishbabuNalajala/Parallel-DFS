@@ -5,13 +5,15 @@ In general Depth-First-Search is an popular Artificial Intelligence related algo
 
 Here in our algorithm, we have used the threading concept instead of cores and we have analyzed the situation of time comparison of normal DFS and PDFS using Java.
 Execution:
-	We have to run our program in Java Environment
+
+We have to run our program in Java Environment
 Steps:
-Open the project repository in eclipse or in any java environment.
-Open Main_pdfs.java file
-Change the node, number of processors as our wish in code.
-We also can enter source in our code.
-Run the Main_pdfs.java file
+1. Open the project repository in eclipse or in any java environment.
+2. Open Main_pdfs.java file
+3. Change the node, number of processors as our wish in code.
+4. We also can enter source in our code.
+5. Run the Main_pdfs.java file
+
 
 Input:
 A 5000 node random graph is produced, which passes variables for the number of cores, for the number of simultaneous parallel tasks to be performed and number of nodes, Source node and destination are input parameters are hardcoded.
